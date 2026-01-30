@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "InterfaceM2/1.0.0": {
+        "runtime": {
+          "InterfaceM2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceM2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\bin\Debug\net10.0\InterfaceM2.exe
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\bin\Debug\net10.0\InterfaceM2.deps.json
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\bin\Debug\net10.0\InterfaceM2.runtimeconfig.json
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\bin\Debug\net10.0\InterfaceM2.dll
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\bin\Debug\net10.0\InterfaceM2.pdb
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\obj\Debug\net10.0\InterfaceM2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\obj\Debug\net10.0\InterfaceM2.AssemblyInfoInputs.cache
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\obj\Debug\net10.0\InterfaceM2.AssemblyInfo.cs
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\obj\Debug\net10.0\InterfaceM2.csproj.CoreCompileInputs.cache
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\obj\Debug\net10.0\InterfaceM2.sourcelink.json
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\obj\Debug\net10.0\InterfaceM2.dll
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\obj\Debug\net10.0\refint\InterfaceM2.dll
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\obj\Debug\net10.0\InterfaceM2.pdb
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\obj\Debug\net10.0\InterfaceM2.genruntimeconfig.cache
+D:\.net\Interface_M11\InterfaceM2\InterfaceM2\obj\Debug\net10.0\ref\InterfaceM2.dll
