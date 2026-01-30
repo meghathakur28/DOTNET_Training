@@ -21,16 +21,16 @@ namespace Interface_M1
         {
             double bill = ratePerNight * nightStayed;
 
-            if (joiningYear > 3) bill = (bill - (0.1 * bill));
+            if (calculateMembershipYears(joiningYear) > 3) { bill = (bill - (0.1 * bill)); }
 
-            return bill;
+            return Math.Floor(bill);
 
         }
 
         public int calculateMembershipYears(int joiningYear)
         {
-            DateTime d = DateTime.
-            return joiningYear;
+            DateTime year = DateTime.Now;
+            return year.Year-joiningYear;
         }
     }
 }

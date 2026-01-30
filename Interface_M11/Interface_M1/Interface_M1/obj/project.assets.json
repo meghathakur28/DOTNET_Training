@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\Interface_M1\\Interface_M1\\Interface_M1.csproj",
+      "projectUniqueName": "D:\\.net\\Interface_M11\\Interface_M1\\Interface_M1\\Interface_M1.csproj",
       "projectName": "Interface_M1",
-      "projectPath": "D:\\.net\\Interface_M1\\Interface_M1\\Interface_M1.csproj",
+      "projectPath": "D:\\.net\\Interface_M11\\Interface_M1\\Interface_M1\\Interface_M1.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\Interface_M1\\Interface_M1\\obj\\",
+      "outputPath": "D:\\.net\\Interface_M11\\Interface_M1\\Interface_M1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
