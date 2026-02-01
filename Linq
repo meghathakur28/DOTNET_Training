@@ -1,0 +1,82 @@
+using MyFirstProject;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using static System.Console;
+namespace CSharpNewFeatures
+{
+    public class Student
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Marks { get; set; }
+        public string City { get; set; }
+    }
+    class Program
+    {
+        //question 1
+        public static void duplicate(int[] arr)
+        {
+            var dupli = arr.GroupBy(x => x).Where(g => g.Count() > 1 ).Select(g => g.Key).OrderBy(g => g);
+            foreach(var i in dupli)
+            {
+                Console.WriteLine(i);
+            }
+        }
+        //question 2
+        public static void duplicateStudent(List<Student> students)
+        {
+            var duplicate = students.GroupBy(x => x.Name).Where(x => x.Count() > 1).Select(x => x.Key);
+            Dictionary<string, int> ans = new Dictionary<string, int>();
+            foreach(var i in duplicate)
+            {
+                Student s = students.Find(x => x.Name == i);
+                ans.Add(i, s.Marks);
+            }
+            foreach(var i in ans)
+            {
+                Console.WriteLine(i.Key + " " + i.Value);
+            }
+        }
+
+        //question 3
+        public static void cityGroup(List<Student> students)
+        {
+            Dictionary<string, List<Student>> cityGroup = new Dictionary<string, List<Student>>();
+
+            var city = students.GroupBy(x => x.City).Select(x => x.Key);
+            foreach(var i in city)
+            {
+                List<Student> l = students.FindAll(x => x.City == i);
+                cityGroup[i] = l;
+            }
+            foreach(var i in cityGroup)
+            {
+                Console.WriteLine("City: "+i.Key + " Topper: "+i.Value.Max(x=>x.Marks)+" Average: "+i.Value.Average(x=>x.Marks));
+            }
+        }
+        public static void Main(string[] args)
+        {
+            int[] arr = { 4, 7, 2, 7, 9, 4, 10, 2, 5 };
+            duplicate(arr);
+
+            List<Student> students = new List<Student>
+            {
+                new Student { Id = 1, Name = "Amit", Marks = 85, City = "Delhi" },
+                new Student { Id = 2, Name = "Riya", Marks = 72, City = "Mumbai" },
+                new Student { Id = 3, Name = "Amit", Marks = 90, City = "Delhi" },
+                new Student { Id = 4, Name = "Neha", Marks = 60, City = "Chennai" },
+                new Student { Id = 5, Name = "Riya", Marks = 88, City = "Mumbai" }
+            };
+
+            duplicateStudent(students);
+
+            cityGroup(students);
+
+        }
+
+    }
+}
+
