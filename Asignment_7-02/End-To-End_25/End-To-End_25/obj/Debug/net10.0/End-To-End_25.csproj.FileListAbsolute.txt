@@ -1,0 +1,15 @@
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\bin\Debug\net10.0\End-To-End_25.exe
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\bin\Debug\net10.0\End-To-End_25.deps.json
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\bin\Debug\net10.0\End-To-End_25.runtimeconfig.json
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\bin\Debug\net10.0\End-To-End_25.dll
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\bin\Debug\net10.0\End-To-End_25.pdb
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\obj\Debug\net10.0\End-To-End_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\obj\Debug\net10.0\End-To-End_25.AssemblyInfoInputs.cache
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\obj\Debug\net10.0\End-To-End_25.AssemblyInfo.cs
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\obj\Debug\net10.0\End-To-End_25.csproj.CoreCompileInputs.cache
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\obj\Debug\net10.0\End-To-End_25.sourcelink.json
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\obj\Debug\net10.0\End-To-End_25.dll
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\obj\Debug\net10.0\refint\End-To-End_25.dll
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\obj\Debug\net10.0\End-To-End_25.pdb
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\obj\Debug\net10.0\End-To-End_25.genruntimeconfig.cache
+D:\.net\Asignment_7-02\End-To-End_25\End-To-End_25\obj\Debug\net10.0\ref\End-To-End_25.dll
