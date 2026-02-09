@@ -1,0 +1,15 @@
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\bin\Debug\net10.0\SafeMixedCollectionProcessing.exe
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\bin\Debug\net10.0\SafeMixedCollectionProcessing.deps.json
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\bin\Debug\net10.0\SafeMixedCollectionProcessing.runtimeconfig.json
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\bin\Debug\net10.0\SafeMixedCollectionProcessing.dll
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\bin\Debug\net10.0\SafeMixedCollectionProcessing.pdb
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\obj\Debug\net10.0\SafeMixedCollectionProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\obj\Debug\net10.0\SafeMixedCollectionProcessing.AssemblyInfoInputs.cache
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\obj\Debug\net10.0\SafeMixedCollectionProcessing.AssemblyInfo.cs
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\obj\Debug\net10.0\SafeMixedCollectionProcessing.csproj.CoreCompileInputs.cache
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\obj\Debug\net10.0\SafeMixedCollectionProcessing.sourcelink.json
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\obj\Debug\net10.0\SafeMixedCollectionProcessing.dll
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\obj\Debug\net10.0\refint\SafeMixedCollectionProcessing.dll
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\obj\Debug\net10.0\SafeMixedCollectionProcessing.pdb
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\obj\Debug\net10.0\SafeMixedCollectionProcessing.genruntimeconfig.cache
+D:\.net\CollectionPractice\SafeMixedCollectionProcessing\SafeMixedCollectionProcessing\obj\Debug\net10.0\ref\SafeMixedCollectionProcessing.dll
