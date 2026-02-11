@@ -1,0 +1,15 @@
+D:\.net\String1_Practice\String1_Practice\bin\Debug\net10.0\String1_Practice.exe
+D:\.net\String1_Practice\String1_Practice\bin\Debug\net10.0\String1_Practice.deps.json
+D:\.net\String1_Practice\String1_Practice\bin\Debug\net10.0\String1_Practice.runtimeconfig.json
+D:\.net\String1_Practice\String1_Practice\bin\Debug\net10.0\String1_Practice.dll
+D:\.net\String1_Practice\String1_Practice\bin\Debug\net10.0\String1_Practice.pdb
+D:\.net\String1_Practice\String1_Practice\obj\Debug\net10.0\String1_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\String1_Practice\String1_Practice\obj\Debug\net10.0\String1_Practice.AssemblyInfoInputs.cache
+D:\.net\String1_Practice\String1_Practice\obj\Debug\net10.0\String1_Practice.AssemblyInfo.cs
+D:\.net\String1_Practice\String1_Practice\obj\Debug\net10.0\String1_Practice.csproj.CoreCompileInputs.cache
+D:\.net\String1_Practice\String1_Practice\obj\Debug\net10.0\String1_Practice.sourcelink.json
+D:\.net\String1_Practice\String1_Practice\obj\Debug\net10.0\String1_Practice.dll
+D:\.net\String1_Practice\String1_Practice\obj\Debug\net10.0\refint\String1_Practice.dll
+D:\.net\String1_Practice\String1_Practice\obj\Debug\net10.0\String1_Practice.pdb
+D:\.net\String1_Practice\String1_Practice\obj\Debug\net10.0\String1_Practice.genruntimeconfig.cache
+D:\.net\String1_Practice\String1_Practice\obj\Debug\net10.0\ref\String1_Practice.dll
