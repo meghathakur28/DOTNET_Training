@@ -1,0 +1,15 @@
+D:\.net\Regex_Practice\Regex_Practice\bin\Debug\net10.0\Regex_Practice.exe
+D:\.net\Regex_Practice\Regex_Practice\bin\Debug\net10.0\Regex_Practice.deps.json
+D:\.net\Regex_Practice\Regex_Practice\bin\Debug\net10.0\Regex_Practice.runtimeconfig.json
+D:\.net\Regex_Practice\Regex_Practice\bin\Debug\net10.0\Regex_Practice.dll
+D:\.net\Regex_Practice\Regex_Practice\bin\Debug\net10.0\Regex_Practice.pdb
+D:\.net\Regex_Practice\Regex_Practice\obj\Debug\net10.0\Regex_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Regex_Practice\Regex_Practice\obj\Debug\net10.0\Regex_Practice.AssemblyInfoInputs.cache
+D:\.net\Regex_Practice\Regex_Practice\obj\Debug\net10.0\Regex_Practice.AssemblyInfo.cs
+D:\.net\Regex_Practice\Regex_Practice\obj\Debug\net10.0\Regex_Practice.csproj.CoreCompileInputs.cache
+D:\.net\Regex_Practice\Regex_Practice\obj\Debug\net10.0\Regex_Practice.sourcelink.json
+D:\.net\Regex_Practice\Regex_Practice\obj\Debug\net10.0\Regex_Practice.dll
+D:\.net\Regex_Practice\Regex_Practice\obj\Debug\net10.0\refint\Regex_Practice.dll
+D:\.net\Regex_Practice\Regex_Practice\obj\Debug\net10.0\Regex_Practice.pdb
+D:\.net\Regex_Practice\Regex_Practice\obj\Debug\net10.0\Regex_Practice.genruntimeconfig.cache
+D:\.net\Regex_Practice\Regex_Practice\obj\Debug\net10.0\ref\Regex_Practice.dll
