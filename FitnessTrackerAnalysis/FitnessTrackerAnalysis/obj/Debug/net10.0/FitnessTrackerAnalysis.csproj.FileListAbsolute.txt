@@ -1,0 +1,15 @@
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\bin\Debug\net10.0\FitnessTrackerAnalysis.exe
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\bin\Debug\net10.0\FitnessTrackerAnalysis.deps.json
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\bin\Debug\net10.0\FitnessTrackerAnalysis.runtimeconfig.json
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\bin\Debug\net10.0\FitnessTrackerAnalysis.dll
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\bin\Debug\net10.0\FitnessTrackerAnalysis.pdb
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\obj\Debug\net10.0\FitnessTrackerAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\obj\Debug\net10.0\FitnessTrackerAnalysis.AssemblyInfoInputs.cache
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\obj\Debug\net10.0\FitnessTrackerAnalysis.AssemblyInfo.cs
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\obj\Debug\net10.0\FitnessTrackerAnalysis.csproj.CoreCompileInputs.cache
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\obj\Debug\net10.0\FitnessTrackerAnalysis.sourcelink.json
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\obj\Debug\net10.0\FitnessTrackerAnalysis.dll
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\obj\Debug\net10.0\refint\FitnessTrackerAnalysis.dll
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\obj\Debug\net10.0\FitnessTrackerAnalysis.pdb
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\obj\Debug\net10.0\FitnessTrackerAnalysis.genruntimeconfig.cache
+D:\.net\FitnessTrackerAnalysis\FitnessTrackerAnalysis\obj\Debug\net10.0\ref\FitnessTrackerAnalysis.dll
