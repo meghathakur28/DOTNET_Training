@@ -1,0 +1,15 @@
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.exe
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.deps.json
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.runtimeconfig.json
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.dll
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\bin\Debug\net10.0\LogisticsProShipmentSystem.pdb
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.AssemblyInfoInputs.cache
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.AssemblyInfo.cs
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.csproj.CoreCompileInputs.cache
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.sourcelink.json
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.dll
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\refint\LogisticsProShipmentSystem.dll
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.pdb
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\LogisticsProShipmentSystem.genruntimeconfig.cache
+D:\.net\Assignment13_02_26\LogisticsProShipmentSystem\LogisticsProShipmentSystem\obj\Debug\net10.0\ref\LogisticsProShipmentSystem.dll
