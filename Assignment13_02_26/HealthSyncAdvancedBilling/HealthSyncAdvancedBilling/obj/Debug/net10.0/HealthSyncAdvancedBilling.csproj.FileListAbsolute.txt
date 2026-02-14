@@ -1,0 +1,15 @@
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\bin\Debug\net10.0\HealthSyncAdvancedBilling.exe
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\bin\Debug\net10.0\HealthSyncAdvancedBilling.deps.json
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\bin\Debug\net10.0\HealthSyncAdvancedBilling.runtimeconfig.json
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\bin\Debug\net10.0\HealthSyncAdvancedBilling.dll
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\bin\Debug\net10.0\HealthSyncAdvancedBilling.pdb
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.AssemblyInfoInputs.cache
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.AssemblyInfo.cs
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.csproj.CoreCompileInputs.cache
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.sourcelink.json
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.dll
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\obj\Debug\net10.0\refint\HealthSyncAdvancedBilling.dll
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.pdb
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\obj\Debug\net10.0\HealthSyncAdvancedBilling.genruntimeconfig.cache
+D:\.net\Assignment13_02_26\HealthSyncAdvancedBilling\HealthSyncAdvancedBilling\obj\Debug\net10.0\ref\HealthSyncAdvancedBilling.dll
