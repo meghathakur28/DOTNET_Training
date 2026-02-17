@@ -1,0 +1,15 @@
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\obj\Debug\net10.0\FindItems_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\obj\Debug\net10.0\FindItems_1.AssemblyInfoInputs.cache
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\obj\Debug\net10.0\FindItems_1.AssemblyInfo.cs
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\obj\Debug\net10.0\FindItems_1.csproj.CoreCompileInputs.cache
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\obj\Debug\net10.0\FindItems_1.sourcelink.json
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\bin\Debug\net10.0\FindItems_1.exe
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\bin\Debug\net10.0\FindItems_1.deps.json
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\bin\Debug\net10.0\FindItems_1.runtimeconfig.json
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\bin\Debug\net10.0\FindItems_1.dll
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\bin\Debug\net10.0\FindItems_1.pdb
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\obj\Debug\net10.0\FindItems_1.dll
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\obj\Debug\net10.0\refint\FindItems_1.dll
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\obj\Debug\net10.0\FindItems_1.pdb
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\obj\Debug\net10.0\FindItems_1.genruntimeconfig.cache
+D:\.net\PracticeCSharp\FindItems_1\FindItems_1\obj\Debug\net10.0\ref\FindItems_1.dll
