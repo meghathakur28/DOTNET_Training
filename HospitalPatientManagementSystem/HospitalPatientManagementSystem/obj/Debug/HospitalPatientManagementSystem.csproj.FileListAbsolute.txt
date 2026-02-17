@@ -1,0 +1,7 @@
+D:\.net\HospitalPatientManagementSystem\HospitalPatientManagementSystem\bin\Debug\HospitalPatientManagementSystem.exe.config
+D:\.net\HospitalPatientManagementSystem\HospitalPatientManagementSystem\bin\Debug\HospitalPatientManagementSystem.exe
+D:\.net\HospitalPatientManagementSystem\HospitalPatientManagementSystem\bin\Debug\HospitalPatientManagementSystem.pdb
+D:\.net\HospitalPatientManagementSystem\HospitalPatientManagementSystem\obj\Debug\HospitalPatientManagementSystem.csproj.AssemblyReference.cache
+D:\.net\HospitalPatientManagementSystem\HospitalPatientManagementSystem\obj\Debug\HospitalPatientManagementSystem.csproj.CoreCompileInputs.cache
+D:\.net\HospitalPatientManagementSystem\HospitalPatientManagementSystem\obj\Debug\HospitalPatientManagementSystem.exe
+D:\.net\HospitalPatientManagementSystem\HospitalPatientManagementSystem\obj\Debug\HospitalPatientManagementSystem.pdb
