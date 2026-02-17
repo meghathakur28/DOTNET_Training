@@ -1,0 +1,15 @@
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\bin\Debug\net10.0\E-commerceShoppingCart.exe
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\bin\Debug\net10.0\E-commerceShoppingCart.deps.json
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\bin\Debug\net10.0\E-commerceShoppingCart.runtimeconfig.json
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\bin\Debug\net10.0\E-commerceShoppingCart.dll
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\bin\Debug\net10.0\E-commerceShoppingCart.pdb
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\obj\Debug\net10.0\E-commerceShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\obj\Debug\net10.0\E-commerceShoppingCart.AssemblyInfoInputs.cache
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\obj\Debug\net10.0\E-commerceShoppingCart.AssemblyInfo.cs
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\obj\Debug\net10.0\E-commerceShoppingCart.csproj.CoreCompileInputs.cache
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\obj\Debug\net10.0\E-commerceShoppingCart.sourcelink.json
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\obj\Debug\net10.0\E-commerceShoppingCart.dll
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\obj\Debug\net10.0\refint\E-commerceShoppingCart.dll
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\obj\Debug\net10.0\E-commerceShoppingCart.pdb
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\obj\Debug\net10.0\E-commerceShoppingCart.genruntimeconfig.cache
+D:\.net\E-commerceShoppingCart\E-commerceShoppingCart\obj\Debug\net10.0\ref\E-commerceShoppingCart.dll
